@@ -1,0 +1,5 @@
+cache
+*.png
+*.heic
+*.json
+.DS_Store
